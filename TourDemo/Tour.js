@@ -35,6 +35,7 @@ function vp(click){
 	document.getElementById("view").src = images[img_pos];
 }
 
+
 //学了Ajax才能弄这种不用刷新的改变当前页面元素
 // while (img_pos >= 0) {
 // 	img_pos++;
